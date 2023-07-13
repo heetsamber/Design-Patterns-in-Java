@@ -1,14 +1,31 @@
 # 디자인패턴
 
 ## 생성패턴
-#### [추상 팩토리](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/AbstractFactory)
-#### [팩토리 메서드](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/FactoryMethod)
-#### [빌더 패턴](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/builder)
-#### [프로토 타입](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/prototype)
-#### [싱글턴](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/Singleton)
+#### [Abstract Factory](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/AbstractFactory)
+#### [Factory Method](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/FactoryMethod)
+#### [Builder](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/builder)
+#### [Prototype](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/prototype)
+#### [Singleton](https://github.com/heetsamber/Design-Patterns-in-Java/tree/main/GOF/Topics_/CreationalPartterns/Singleton)
 
 
 ## 구조패턴
+#### [Adapter]()
+#### [bridge]()
+#### [Composite]()
+#### [Decorator]()
+#### [Facade]()
+#### [Flyweight]()
+#### [Proxy]()
 
 
 ## 행동패턴
+#### [Chain of Responsibility]()
+#### [Command]()
+#### [Iterator]()
+#### [Mediator]()
+#### [Memento]()
+#### [Observer]()
+#### [State]()
+#### [Strategy]()
+#### [Visitor]()
+#### [Template Method]()
